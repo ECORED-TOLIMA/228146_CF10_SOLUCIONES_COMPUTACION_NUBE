@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_464276" data-name="Rectángulo 464276" width="32.407" height="46.474" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1213831" data-name="Grupo 1213831" transform="translate(-616.314 -749.828)">
+    <circle id="Elipse_13676" data-name="Elipse 13676" cx="34.5" cy="34.5" r="34.5" transform="translate(616.314 749.828)" fill="#1e535a"/>
+    <g id="Grupo_1214244" data-name="Grupo 1214244" transform="translate(635.314 760.828)">
+      <g id="Grupo_1214243" data-name="Grupo 1214243" clip-path="url(#clip-path)">
+        <path id="Trazado_1282121" data-name="Trazado 1282121" d="M22.9,127.076a6.715,6.715,0,1,0-13.4-.082,7.037,7.037,0,0,0,2.141,5.461l-4.069,1.623a7.243,7.243,0,0,0-4.564,6.352,16.192,16.192,0,1,1,26.376,0,7.207,7.207,0,0,0-4.445-6.295l-4.172-1.682a7.086,7.086,0,0,0,2.13-5.376" transform="translate(0 -100.769)" fill="#fff"/>
+        <path id="Trazado_1282122" data-name="Trazado 1282122" d="M72.765,284.2a16.211,16.211,0,0,1-19.3.011l-.008-3.344a3.676,3.676,0,0,1,2.371-3.412l7.32-2.885,7.478,2.993a3.614,3.614,0,0,1,2.134,3.286Z" transform="translate(-46.903 -240.915)" fill="#fff"/>
+        <path id="Trazado_1282123" data-name="Trazado 1282123" d="M18.669,52.775l-2.609.81V50.9l-1.577-2.178,2.549-.833,1.6-2.176,1.584,2.159,2.558.853-1.558,2.152-.029,2.717Z" transform="translate(-12.709 -40.111)" fill="#fff"/>
+        <path id="Trazado_1282124" data-name="Trazado 1282124" d="M183.713,52.839l-2.575.827,0-2.692L179.571,48.8l2.545-.855,1.6-2.149,1.592,2.166,2.549.831-1.574,2.183-.009,2.694Z" transform="translate(-157.562 -40.18)" fill="#fff"/>
+        <path id="Trazado_1282125" data-name="Trazado 1282125" d="M101.214,7.067l-2.625.815-.007-2.707L97.021,3.024l2.565-.858L101.165,0l1.577,2.165,2.567.857-1.56,2.153-.015,2.717Z" transform="translate(-85.129 0.001)" fill="#fff"/>
+        <path id="Trazado_1282126" data-name="Trazado 1282126" d="M112.34,187.99c-.009,2.062-1.249,3.688-3.23,3.7s-3.2-1.661-3.224-3.6c-.027-2.021,1.04-3.739,3.052-3.823,2.082-.087,3.411,1.529,3.4,3.731" transform="translate(-92.908 -161.672)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

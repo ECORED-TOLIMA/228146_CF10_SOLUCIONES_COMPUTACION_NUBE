@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="69" viewBox="0 0 69 69">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_464177" data-name="Rectángulo 464177" width="40.662" height="44" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1213761" data-name="Grupo 1213761" transform="translate(-616.314 -749.862)">
+    <circle id="Elipse_13676" data-name="Elipse 13676" cx="34.5" cy="34.5" r="34.5" transform="translate(616.314 749.862)" fill="#1e535a"/>
+    <g id="Grupo_1214154" data-name="Grupo 1214154" transform="translate(630.314 762.862)">
+      <g id="Grupo_1214153" data-name="Grupo 1214153" clip-path="url(#clip-path)">
+        <path id="Trazado_1281694" data-name="Trazado 1281694" d="M55.987,78.75c.115-1.273-.48-2.7-1.9-2.7l-27.519-.016V45.458H63.447l-.015,33.931a3.71,3.71,0,0,1-3.936,3.6,3.767,3.767,0,0,1-3.509-4.235M59.9,48.7H30.083v9.982H59.9ZM38.307,61.556H30.083v7.9h8.224Zm10.812.008H40.9v7.892h8.216Zm10.78.03H51.68v7.862H59.9ZM30.088,73.446H59.894v-.925H30.088Z" transform="translate(-22.785 -38.99)" fill="#fff"/>
+        <path id="Trazado_1281695" data-name="Trazado 1281695" d="M33.97,273.052l-30.6-.043c-2.272,0-3.516-2.394-3.353-4.353.053-.635.1-1.587.957-1.587l30.094-.01a1.431,1.431,0,0,1,.916.349,2.032,2.032,0,0,1,.29,1.061,5.326,5.326,0,0,0,1.7,4.583" transform="translate(0 -229.062)" fill="#fff"/>
+        <path id="Trazado_1281696" data-name="Trazado 1281696" d="M63.418,5.551l-36.823,0c-.012-.734-.028-1.383.013-2.154A3.642,3.642,0,0,1,30.139,0L59.853,0a3.6,3.6,0,0,1,3.59,3.546Zm-32.6-2.8a.923.923,0,1,0-.923.923.923.923,0,0,0,.923-.923m3.109,0A.923.923,0,1,0,33,3.681a.923.923,0,0,0,.923-.923m3.108,0a.924.924,0,1,0-.924.924.924.924,0,0,0,.924-.924" transform="translate(-22.799 -0.001)" fill="#fff"/>
+        <rect id="Rectángulo_464173" data-name="Rectángulo 464173" width="27.964" height="8.131" transform="translate(8.235 10.644)" fill="#fff"/>
+        <rect id="Rectángulo_464174" data-name="Rectángulo 464174" width="6.35" height="6.082" transform="translate(8.235 23.49)" fill="#fff"/>
+        <rect id="Rectángulo_464175" data-name="Rectángulo 464175" width="6.355" height="6.044" transform="translate(19.045 23.491)" fill="#fff"/>
+        <rect id="Rectángulo_464176" data-name="Rectángulo 464176" width="6.382" height="6.044" transform="translate(29.817 23.491)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
