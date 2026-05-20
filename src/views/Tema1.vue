@@ -156,27 +156,27 @@
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/tema1/img17.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Categorías, que agrupan los productos en diferentes tipos como tecnología, ropa u hogar, facilitando la búsqueda de artículos.
+        p.text-center(data-aos="fade-down") <b>Categorías</b>, que agrupan los productos en diferentes tipos como tecnología, ropa u hogar, facilitando la búsqueda de artículos.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/tema1/img18.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Ofertas, destinada a mostrar promociones o descuentos especiales.
+        p.text-center(data-aos="fade-down") <b>Ofertas</b>, destinada a mostrar promociones o descuentos especiales.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/tema1/img19.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Carrito de compras, donde el usuario puede visualizar y gestionar los productos seleccionados antes de finalizar la compra.
+        p.text-center(data-aos="fade-down") <b>Carrito de compras</b>, donde el usuario puede visualizar y gestionar los productos seleccionados antes de finalizar la compra.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/tema1/img20.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Perfil de usuario, que permite acceder a la información personal, historial de pedidos y configuraciones de la cuenta.
+        p.text-center(data-aos="fade-down") <b>Perfil de usuario</b>, que permite acceder a la información personal, historial de pedidos y configuraciones de la cuenta.
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/tema1/img21.svg' alt='AvatarTop')
-        p.text-center(data-aos="fade-down") Atención al cliente, que ofrece soporte, contacto y ayuda para resolver inquietudes o problemas.
+        p.text-center(data-aos="fade-down") <b>Atención al cliente</b>, que ofrece soporte, contacto y ayuda para resolver inquietudes o problemas.
     p.mb-0(data-aos="fade-down") Una estructura bien organizada permite que la aplicación presente una navegación clara, acceso rápido a la información y una mejor experiencia para el usuario, facilitando la interacción con el sistema.
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")

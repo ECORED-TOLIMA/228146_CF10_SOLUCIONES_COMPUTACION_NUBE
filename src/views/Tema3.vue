@@ -361,7 +361,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img31.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p El diseño intuitivo se refiere a la capacidad que tiene una interfaz para ser comprendida y utilizada de manera natural, sin que el usuario necesite instrucciones complejas o capacitación previa. Una interfaz intuitiva aprovecha patrones de interacción conocidos, de modo que el usuario puede identificar rápidamente cómo navegar, dónde hacer clic o cómo completar una tarea.
+        p El <b>diseño intuitivo</b> se refiere a la capacidad que tiene una interfaz para ser comprendida y utilizada de manera natural, sin que el usuario necesite instrucciones complejas o capacitación previa. Una interfaz intuitiva aprovecha patrones de interacción conocidos, de modo que el usuario puede identificar rápidamente cómo navegar, dónde hacer clic o cómo completar una tarea.
     p(data-aos="fade-down") Este tipo de diseño se apoya en la experiencia previa de los usuarios con otros sistemas digitales, lo que permite reducir la confusión y facilitar el aprendizaje. Cuando una interfaz es intuitiva, los usuarios pueden concentrarse en sus objetivos y no en entender cómo funciona la herramienta.
     p.mb-0(data-aos="fade-down") Entre las principales características del diseño intuitivo se encuentran:
     .row.mb-0
@@ -404,7 +404,7 @@
           img(src='@/assets/curso/tema3/img38.svg', alt='Imagen decorativa')
       .col-lg-9.col-12
         p.mb-0 Por otra parte, la usabilidad se enfoca en evaluar qué tan fácil, eficiente y satisfactorio resulta para un usuario interactuar con un sistema. No se trata únicamente de cómo debería funcionar una interfaz en teoría, sino de cómo funciona realmente cuando las personas la utilizan.
-    p(data-aos="fade-down") La usabilidad busca que los usuarios puedan realizar sus tareas con el menor esfuerzo posible, reduciendo errores y mejorando la eficiencia en la interacción.
+    p(data-aos="fade-down") La <b>usabilidad</b> busca que los usuarios puedan realizar sus tareas con el menor esfuerzo posible, reduciendo errores y mejorando la eficiencia en la interacción.
     p.mb-4(data-aos="fade-down") Entre los principales componentes de la usabilidad se encuentran:
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12
@@ -495,7 +495,7 @@
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 <em><em>Mockup</em></em> y prototipado de interfaces
-    p.mb-4(data-aos="fade-down") Las estructuras de selección en JavaScript permiten tomar decisiones dentro de un programa, ejecutando diferentes bloques de código según se cumplan o no determinadas condiciones. Las siguientes son este tipo de estructuras:
+    //- p.mb-4(data-aos="fade-down") Las estructuras de selección en JavaScript permiten tomar decisiones dentro de un programa, ejecutando diferentes bloques de código según se cumplan o no determinadas condiciones. Las siguientes son este tipo de estructuras:
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/img48.jpg')})`}"

@@ -326,7 +326,7 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema2/img14.svg", alt="Imagen decorativa").img100.m-auto
-                  p Implementar técnicas de carga diferida (lazy loading).
+                  p Implementar técnicas de carga diferida (<em>lazy loading</em>).
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8

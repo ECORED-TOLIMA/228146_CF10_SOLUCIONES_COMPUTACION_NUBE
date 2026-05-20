@@ -142,23 +142,23 @@
             li.mb-2
               .lista-ol--cuadro__vineta
                 span.text-bold 1
-              | La organización de la información dentro del sistema.
+              p.mb-0 La organización de la información dentro del sistema.
             li.mb-2
               .lista-ol--cuadro__vineta
                 span.text-bold 2
-              | La eficiencia en el procesamiento de datos.
+              p.mb-0 La eficiencia en el procesamiento de datos.
             li.mb-2
               .lista-ol--cuadro__vineta
                 span.text-bold 3
-              | La claridad y mantenimiento del código.
+              p.mb-0 La claridad y mantenimiento del código.
             li.mb-2
               .lista-ol--cuadro__vineta
                 span.text-bold 4
-              | La detección temprana de errores.
+              p.mb-0 La detección temprana de errores.
             li.mb-2
               .lista-ol--cuadro__vineta
                 span.text-bold 5
-              | La estabilidad y seguridad del <em>software</em>.
+              p.mb-0 La estabilidad y seguridad del <em>software</em>.
       .col-lg-5.col-8.col-md-6.order-lg-2.order-1.mb-lg-0.mb-4
         figure.mb-0
           img(src='@/assets/curso/tema5/img22.svg', alt='Imagen decorativa')
@@ -252,39 +252,39 @@
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img24.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>Number</em>: representa valores numéricos enteros o decimales.
+                  p <em><b>Number</b></em>: representa valores numéricos enteros o decimales.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img25.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>String</em>: representa texto o cadenas de caracteres.
+                  p <em><b>String</b></em>: representa texto o cadenas de caracteres.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img26.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>Boolean</em>: representa valores lógicos verdadero o falso.
+                  p <em><b>Boolean</b></em>: representa valores lógicos verdadero o falso.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img27.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>Object</em>: representa estructuras de datos complejas.
+                  p <em><b>Object</b></em>: representa estructuras de datos complejas.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img28.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>Array</em>: permite almacenar listas de elementos.
+                  p <em><b>Array</b></em>: permite almacenar listas de elementos.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img29.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>Null</em>: representa la ausencia intencional de valor.
+                  p <em><b>Null</b></em>: representa la ausencia intencional de valor.
                 .tarjeta.tarjeta--slyder.p-4
                   .row.justify-content-center.mb-3
                     .col-6.col-lg-8
                       img(src="@/assets/curso/tema5/img30.svg", alt="Imagen decorativa").img100.m-auto
-                  p <em>Undefined</em>: indica que una variable no tiene valor asignado.
+                  p <em><b>Undefined</b></em>: indica que una variable no tiene valor asignado.
     p(data-aos="fade-down") En el desarrollo <em>frontend</em>, las aplicaciones <em>web</em> frecuentemente necesitan comunicarse con servidores o servicios externos para obtener o enviar información. Este proceso se conoce como consumo de servicios o consumo de APIs.
-    p.mb-4(data-aos="fade-down") Las funciones de consumo permiten que una aplicación <em>web</em> solicite datos a un servidor, envíe información o actualice registros dentro de un sistema. Estas operaciones se realizan generalmente mediante protocolos <em>web</em> como HTTP.
+    p.mb-4(data-aos="fade-down") Las <b>funciones de consumo</b> permiten que una aplicación <em>web</em> solicite datos a un servidor, envíe información o actualice registros dentro de un sistema. Estas operaciones se realizan generalmente mediante protocolos <em>web</em> como HTTP.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col.col-12.col-lg-10
         .titulo-sexto.color-acento-contenido
@@ -502,30 +502,30 @@ export default {
     // variables de vue
     datosSlyder: [
       {
-        titulo: 'Cifrado de la información',
+        titulo: 'HTML (HyperText Markup Language)',
         texto:
-          'Permite proteger los datos durante su transmisión a través de la red, evitando que puedan ser interceptados o leídos por terceros no autorizados.',
+          'Es el lenguaje de marcado que define la estructura del contenido en la web. Permite organizar textos, imágenes, enlaces, formularios y otros elementos que componen una página web.',
         imagen: require('@/assets/curso/tema5/img05.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Autenticación de usuarios',
+        titulo: 'CSS (Cascading Style Sheets)',
         texto:
-          'Consiste en verificar la identidad de los usuarios que acceden a los servicios mediante contraseñas seguras, autenticación multifactor o certificados digitales.',
+          'Se encarga de la presentación visual del contenido. A través de este lenguaje se pueden definir colores, tipografías, tamaños, márgenes, alineaciones y otros aspectos visuales que mejoran la apariencia de la interfaz y permiten adaptar el diseño a diferentes dispositivos.',
         imagen: require('@/assets/curso/tema5/img06.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Uso de protocolos seguros',
+        titulo: 'JavaScript',
         texto:
-          'Muchos servicios utilizan versiones seguras de los protocolos de comunicación, como HTTPS para servidores <em><em>web</em></em> o SMTPS para correo electrónico, con el fin de proteger la transmisión de datos.',
+          'Es un lenguaje de programación que permite añadir interactividad a las páginas web. Gracias a este lenguaje es posible validar formularios, modificar elementos del documento, generar animaciones y crear aplicaciones dinámicas. Elementos como movimientos de interfaz, resaltado de contenido o validaciones de datos en plataformas educativas son ejemplos de funcionalidades implementadas con JavaScript.',
         imagen: require('@/assets/curso/tema5/img07.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Control de accesos',
+        titulo: '<em>Frameworks</em> y bibliotecas <em>frontend</em>',
         texto:
-          'Se establecen permisos y roles que determinan qué usuarios pueden acceder a determinados recursos o servicios dentro de la red.',
+          'En el desarrollo <em>web</em> moderno, las tecnologías <em>frontend</em> se complementan con el uso de <em>frameworks</em> y bibliotecas que facilitan la creación de interfaces complejas. Estas herramientas proporcionan estructuras, componentes reutilizables y funciones predefinidas que agilizan el desarrollo, mejoran la organización del código y permiten construir aplicaciones web más eficientes y escalables.',
         imagen: require('@/assets/curso/tema5/img08.jpg'),
       },
     ],

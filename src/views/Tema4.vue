@@ -118,7 +118,7 @@
                 p.text-white.mb-1.font-monospace &lt;/html&gt;
           figcaption
             b Nota: 
-            | escriba el código del ejemplo anterior en un editor de texto plano, guarde el archivo con el nombre y extensión.
+            | El código anterior puede copiarse en un editor de texto y guardarse con la extensión .html. Posteriormente, al abrir el archivo en un navegador web, se visualizará la página generada a partir de ese código.
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
@@ -621,7 +621,7 @@
             p.mb-3 Los estilos en la <em>web</em> se refieren al conjunto de características visuales que determinan la apariencia de una página o aplicación. Estos estilos son implementados principalmente mediante CSS (Cascading Style Sheets), el cual permite definir colores, tipografías, tamaños, espacios, alineaciones y otros aspectos visuales de la interfaz.
         .cajon.cajon.C01.color-primario.px-4.py-3.mb-3
           p.mb-0(data-aos="fade-down") Los estilos permiten transformar una estructura HTML básica en una interfaz visualmente organizada, atractiva y funcional. Además, facilitan la adaptación del contenido a diferentes dispositivos mediante técnicas como el diseño responsivo, lo cual mejora la accesibilidad y la experiencia de usuario.
-        p.mb-0(data-aos="fade-down") Los estilos presentan diversas características que los convierten en un elemento fundamental dentro del desarrollo <em>web</em>:
+        p.mb-0(data-aos="fade-down") Los estilos presentan diversas <b>características</b> que los convierten en un elemento fundamental dentro del desarrollo <em>web</em>:
     .row.BG01.justify-content-center.align-items-stretch.mb-4.px-4.py-4.mb-0
       .row.justify-content-center.mb-4
         .col.col-lg-7.col-12.mb-lg-0.mb-3
@@ -752,7 +752,7 @@
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Los estilos se escriben en un archivo independiente con extensión .css y se enlazan al documento HTML mediante la etiqueta &lt;link&gt;.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Facilitan la reutilización de estilos, mejoran la organización del código y permiten mantener consistencia en múltiples páginas.
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Requieren crear y gestionar archivos adicionales dentro del proyecto.
-    p.mb-4(data-aos="fade-down") Las guías de estilo son documentos o conjuntos de reglas que establecen cómo deben aplicarse los elementos visuales dentro de una página o aplicación <em>web</em>. Estas guías permiten mantener uniformidad en aspectos como el uso de colores, tipografías, tamaños de texto, espacios, botones, iconos y componentes de interfaz.
+    p.mb-4(data-aos="fade-down") Las <b>guías de estilo</b> son documentos o conjuntos de reglas que establecen cómo deben aplicarse los elementos visuales dentro de una página o aplicación <em>web</em>. Estas guías permiten mantener uniformidad en aspectos como el uso de colores, tipografías, tamaños de texto, espacios, botones, iconos y componentes de interfaz.
     .row.justify-content-center.mb-0
       .col-lg-10.col-12.cajon.C01.p-4
         .row.justify-content-center.align-items-center

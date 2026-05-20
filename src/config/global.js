@@ -133,10 +133,6 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 't_5_1',
-          },
-          {
-            numero: '5.2',
             titulo:
               'Tipos de datos y funciones en el desarrollo <em>frontend</em>',
             hash: 't_5_2',
@@ -338,7 +334,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
