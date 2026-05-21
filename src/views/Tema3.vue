@@ -193,19 +193,19 @@
               li.mb-2
                 .lista-ol--cuadro__vineta
                   span.text-bold 1
-                | Elegir la plataforma o tecnología adecuada para el desarrollo del sitio <em>web</em>.
+                p.mb-0 Elegir la plataforma o tecnología adecuada para el desarrollo del sitio <em>web</em>.
               li.mb-2
                 .lista-ol--cuadro__vineta
                   span.text-bold 2
-                | Diseñar y construir la estructura de la página utilizando HTML, CSS y JavaScript.
+                p.mb-0 Diseñar y construir la estructura de la página utilizando HTML, CSS y JavaScript.
               li.mb-2
                 .lista-ol--cuadro__vineta
                   span.text-bold 3
-                | Incorporar funcionalidades dinámicas mediante programación y conexión con bases de datos o servicios del servidor.
+                p.mb-0 Incorporar funcionalidades dinámicas mediante programación y conexión con bases de datos o servicios del servidor.
               li.mb-2
                 .lista-ol--cuadro__vineta
                   span.text-bold 4
-                | Realizar pruebas de funcionamiento y publicar el sitio <em>web</em> en el servidor para su uso por parte de los usuarios.
+                p.mb-0 Realizar pruebas de funcionamiento y publicar el sitio <em>web</em> en el servidor para su uso por parte de los usuarios.
     .row.justify-content-center.mb-0
       .col.col-12
         .row.align-items-center.mb-4(data-aos="flip-down")

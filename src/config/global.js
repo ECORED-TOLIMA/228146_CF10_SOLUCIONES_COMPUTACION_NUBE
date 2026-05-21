@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Diseño y desarrollo de aplicaciones <em>web</em>.',
+    Name: 'Diseño y desarrollo de aplicaciones <em>web</em>',
     Description:
       'El componente formativo aborda los principios del diseño y desarrollo de aplicaciones <em>web</em>, incluyendo la organización de la información, el diseño de contenidos e interfaces, la maquetación mediante HTML y CSS, y los fundamentos de las tecnologías <em>frontend</em>. Estos elementos permiten comprender cómo se estructuran, presentan e implementan aplicaciones <em>web</em> funcionales, intuitivas y orientadas a la experiencia del usuario.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
