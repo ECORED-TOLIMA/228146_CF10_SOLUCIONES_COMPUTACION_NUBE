@@ -53,7 +53,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/quno1VBe8PQ?si=2Py_pR63Ay1FChPj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.text-center.mb-4(data-aos="fade-down") Entre las principales características de la tecnología <em>frontend</em> se destacan:
+    p.mb-4(data-aos="fade-down") Entre las principales características de la tecnología <em>frontend</em> se destacan:
     .row.mb-4(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3

@@ -318,7 +318,7 @@
                 .lista-ol--cuadro__vineta
                   span.text-bold 4
                 | Elemento &lt;head&gt;: sección del documento HTML donde normalmente se incluyen los elementos &lt;style&gt; y &lt;link&gt; para definir o enlazar los estilos.
-    p.mb-0.text-center(data-aos="fade-down") Entre las propiedades más utilizadas en CSS se encuentran:
+    p.mb-0(data-aos="fade-down") Entre las propiedades más utilizadas en CSS se encuentran:
     .row.mb-0
       .col-12
         .px-5.py-4

@@ -106,7 +106,7 @@
     .row.BG01.justify-content-center.align-items-stretch.mb-4.px-4.py-4.mb-0
       .row.justify-content-center.align-items-center.mb-4
         .col.col-lg-6.col-12.mb-lg-0.mb-3
-          p.mb-4.text-bold(data-aos="fade-down") Una adecuada organización de la información aporta múltiples beneficios en el diseño de aplicaciones <em>web</em>, entre los que se destacan:
+          p.mb-4(data-aos="fade-down") Una adecuada organización de la información aporta múltiples beneficios en el diseño de aplicaciones <em>web</em>, entre los que se destacan:
           .tarjeta.tarjeta--blanca.px-4.py-2.mb-3
             ul.lista-ul--color.mt-4(data-aos="fade-down")
               li
@@ -150,7 +150,7 @@
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
         p(data-aos="fade-down") En este tipo de aplicaciones suele utilizarse una estructura jerárquica, donde la página principal o inicio actúa como punto de acceso a las diferentes secciones del sistema.
-        p.mb-0.text-center(data-aos="fade-down") Entre las secciones más comunes se encuentran:
+    p.mb-4(data-aos="fade-down") Entre las secciones más comunes se encuentran:
     .row.mb-4(data-aos="flip-up")
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3

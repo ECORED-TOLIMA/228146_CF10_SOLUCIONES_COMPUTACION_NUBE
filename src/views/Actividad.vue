@@ -20,7 +20,7 @@ export default {
       tema: 'Microcontroladores y sensores',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> <br>Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> <br>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales relacionados con la arquitectura de la información, el diseño de interfaces, la maquetación <em>web</em> y las tecnologías <em>frontend</em> utilizadas en el desarrollo de aplicaciones <em>web</em>.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

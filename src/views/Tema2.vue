@@ -129,7 +129,7 @@
                 td(data-aos="fade-down") Elementos que invitan a actuar.
                 td(data-aos="fade-down") Botones visibles.
                 td(data-aos="fade-down") Comprar ahora.
-        p.mb-0(data-aos="fade-down") Una correcta distribución del contenido facilita la lectura, mejora la comprensión de la información y permite que los usuarios interactúen con el sitio <em>web</em> de manera más eficiente.
+    p.mb-0(data-aos="fade-down") Una correcta distribución del contenido facilita la lectura, mejora la comprensión de la información y permite que los usuarios interactúen con el sitio <em>web</em> de manera más eficiente.
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Formatos y tipos de archivos para la publicación de recursos
@@ -400,7 +400,7 @@
     .row.BG01.justify-content-center.align-items-stretch.mb-4.px-4.py-4.mb-0
       .row.justify-content-center.align-items-center.mb-0
         .col.col-lg-6.col-12.mb-lg-0.mb-3
-          p.mb-4.text-bold(data-aos="fade-down") Para establecer la jerarquía de la información se utilizan diferentes recursos, como:
+          p.mb-4(data-aos="fade-down") Para establecer la jerarquía de la información se utilizan diferentes recursos, como:
           .tarjeta.tarjeta--blanca.px-4.py-2.mb-3
             ul.lista-ul--color.mt-4(data-aos="fade-down")
               li
