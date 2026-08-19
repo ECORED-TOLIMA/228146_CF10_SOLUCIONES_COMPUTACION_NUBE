@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -84,7 +84,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -114,7 +114,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -147,7 +147,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -180,7 +180,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -209,7 +209,7 @@ export default {
             { id: 'd', texto: 'Un tipo de base de datos.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -239,7 +239,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -272,7 +272,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -300,7 +300,7 @@ export default {
             { id: 'd', texto: 'Eliminar botones y menús.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -332,7 +332,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -361,7 +361,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -393,7 +393,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -427,7 +427,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -457,7 +457,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -482,7 +482,7 @@ export default {
             { id: 'd', texto: 'Programar el servidor.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -515,7 +515,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -540,7 +540,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -573,7 +573,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -605,7 +605,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -630,7 +630,7 @@ export default {
             { id: 'd', texto: 'Diseñar hardware.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías <em>frontend</em> en el desarrollo de aplicaciones <em>web</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos fundamentales sobre arquitectura de la información, diseño de interfaces, uso de HTML y CSS, y tecnologías frontend en el desarrollo de aplicaciones web.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
